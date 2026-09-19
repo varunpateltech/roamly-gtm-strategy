@@ -8,40 +8,40 @@
 
 | Component | Your answer |
 |---|---|
-| **Target customer** — who is it for? | _____ |
-| **Market category** — what is it? | _____ |
-| **Key benefit** — the #1 value | _____ |
-| **Competitive alternative** — vs. what? | _____ |
-| **Differentiator** — why us, uniquely | _____ |
-| **Proof** — evidence it's true | _____ |
+| **FOR…** Target audience | Friend groups planning a trip together, specifically the organizer who ends up coordinating everyone's bookings and payments. |
+| **WHO WANT / NEED…** The need | To book activities together without chasing friends for money, syncing separate bookings, or juggling group chats and spreadsheets. |
+| **WE OFFER…** The offering | Roamly Groups: one place where an organizer picks an activity, invites the group, shares one plan, and everyone pays their own share automatically. |
+| **BECAUSE OF…** Value proposition | The group goes from "we've decided" to "it's booked and paid" in one step, with no manual coordination and no awkward money follow-ups. Vetted hosts mean the organizer isn't risking the group's trust on an unknown. |
+| **DESPITE…** Barriers | Roamly Groups covers activities only, not flights, lodging, or full-trip planning, so groups will still use other tools for the rest of the trip. It's also a new feature with no group-booking track record yet. |
+| **BETTER THAN…** Differentiation | Planning-only apps like Wanderlog, which stop at the plan and can't book or collect payment, and the status quo of group chat plus Venmo, which is manual and causes drop-off. Roamly is the only option that turns a shared plan into a booked, paid activity with vetted hosts. |
 
-## 2. Core product truth
+## 2. Positioning statement
 
-_The one thing that is undeniably true about Roamly Groups that competitors can't easily claim._
+> Roamly Groups is group booking for curated local experiences with vetted hosts: one friend organizing a trip invites the group, and everyone confirms and pays their own share in one shared booking. The group goes from "we should do this" to booked and paid, without one person acting as planner and payment collector.
 
-_____
+## 3. Pressure test
 
-## 3. Positioning statement
+**Test run: Competitor discomfort (Option B)**, role-playing a product leader at Wanderlog, the primary competitor from Module 2.
 
-> For **[target customer]** who **[need]**, **Roamly Groups** is the **[category]** that **[key benefit]**. Unlike **[alternative]**, Roamly Groups **[differentiator]**.
+- **Result on the first draft:** Wanderlog could not use the statement word for word, since it does not run reservations or take payment for them. That is what makes the statement ownable.
+- **What was still generic:** "local experiences" named no host quality, so any marketplace (for example Airbnb Experiences) could claim it once it ships group pay. "Without one person acting as planner and payment collector" also sits close to Wanderlog's own expense-splitting pitch.
+- **Fix applied:** Changed "local experiences" to "curated local experiences with vetted hosts", anchoring the statement in the host network that competitors cannot copy quickly.
 
-## 4. Pressure tests
+## 4. Blind read
 
-_Run the statement through each test and note what you'd fix._
+An AI role-played a peer reading the statement cold, without context.
 
-| Test | Pass? | Note |
-|---|---|---|
-| **Ownable** — could a competitor say the same? | _____ | _____ |
-| **Believable** — is the proof real? | _____ | _____ |
-| **Relevant** — does the ICP care? | _____ | _____ |
-| **Durable** — holds as the product grows? | _____ | _____ |
+- **Who is it for?** The person who runs logistics for an outing and gets stuck fronting the money. Unsure whether it is for travelers or locals, and whether it is only for friends (could be a family, team, or club).
+- **What value does it deliver?** Everyone handles their own payment, so the organizer does not cover the group or chase people. The "curated" and "vetted" part read as vague reassurance.
+- **Signal:** The person and the value landed, but the audience read as broader than intended: "friends" appeared once and "trip" not at all.
+- **Fix applied:** Changed "one organizer invites friends" to "one friend organizing a trip invites the group", so the statement carries the travel and friend-group audience from the For row.
+- **Open gap:** "Vetted" is not yet backed by a specific claim. To address in Module 4 messaging.
 
-## 5. Positioning vs. messaging note
+## 5. Carried forward
 
-_How does this fixed positioning translate to the homepage headline vs. the sales opener vs. the app store blurb?_
-
-_____
+- **Scope honesty:** The activities-only limit stays in the Despite row rather than the statement. It becomes an objection to handle in Module 4 messaging.
+- **Module 2 adjustment:** "Shared itinerary planning" is narrowed to "one shared plan for your group's activities", reflected in the We Offer row.
 
 ## Link to full artifact
 
-_[link to your Positioning Builder export / slide]_
+Raw exercise exports: [roamly-m3-positioning-ex1.md](roamly-m3-positioning-ex1.md) (framework) and [roamly-m3-positioning-ex2.md](roamly-m3-positioning-ex2.md) (final statement and blind read)

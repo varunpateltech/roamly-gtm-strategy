@@ -56,8 +56,10 @@ _Why this motion:_ All five diagnostic inputs point to PLG, time to value is min
 
 | Metric | Target | Why it matters |
 |---|---|---|
-| **North-star:** Invite-to-signup conversion rate | TBD after V1 baseline | Directly measures whether the PLG acquisition loop this motion is built on is actually working |
-| **Leading indicator:** Group bookings completed without drop-off | TBD after V1 baseline | Confirms the core friction (manual coordination) is actually resolved |
+| **North-star:** Invite-to-signup conversion rate (share of invited group members who create a Roamly account and join the booking) | Hypothesis: 30% within 7 days of the invite, 90 days after launch | Directly measures whether the PLG acquisition loop this motion is built on is actually working. Each converted invitee is a net-new user at no paid acquisition cost. |
+| **Leading indicator:** Group booking completion rate (share of started group bookings where every invited member has confirmed and paid) | Hypothesis: 60% of started group bookings, 90 days after launch | Confirms the core friction (manual coordination and drop-off) is actually resolved. Compare against today's drop-off on multi-traveler sessions. |
+
+_These targets are hypotheses set before launch, not benchmarks. Before launch, measure today's drop-off on multi-traveler sessions to establish a baseline. After the first 4 weeks of live data, recalibrate both targets._
 
 ## 6. The assumption I'm most worried about
 
