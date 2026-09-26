@@ -48,4 +48,6 @@ OUTPUT — return only the complete HTML file in one code block, ready to save a
 
 ## Link to the published deck
 
-[final-presentation.html](final-presentation.html) in this repo. Generated with Claude, using the exact master prompt above with all six deliverable files as content, then reviewed for accuracy against the source files before saving. No changes were needed beyond what the prompt already specified, the AI asset image was embedded as a base64 data URI so the file stays fully self-contained and works offline.
+[final-presentation.html](final-presentation.html) in this repo. Generated with Claude, using the exact master prompt above with all six deliverable files as content, then reviewed for accuracy against the source files. The AI asset image is embedded as a base64 data URI so the file stays fully self-contained and works offline.
+
+**Design departure from the master prompt's default theme:** rather than the generic dark-navy-and-blue-accent look, the deck is styled as "The Shared Itinerary", a real ticket/boarding-pass visual language (ledger-cream cards, a perforated tear line on every slide, and a bottom "manifest" strip of stamp-style nav dots that fill in from pending to confirmed as the deck progresses), grounded specifically in the group-booking, organizer/guest, confirm-and-pay subject rather than a generic SaaS template. The content and structure still follow the master prompt exactly.
